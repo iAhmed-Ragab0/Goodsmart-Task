@@ -1,0 +1,164 @@
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\appsettings.Development.json
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\appsettings.json
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Goodsmart API.exe
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Goodsmart API.deps.json
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Goodsmart API.runtimeconfig.json
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Goodsmart API.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Goodsmart API.pdb
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Azure.Core.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Azure.Identity.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Humanizer.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\System.CodeDom.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Goodsmart Domain.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Goodsmart Repository.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Goodsmart Service.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Goodsmart Domain.pdb
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Goodsmart Repository.pdb
+D:\Work\Tasks\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Goodsmart Service.pdb
+D:\Work\Tasks\Goodsmart API\Goodsmart API\obj\Debug\net7.0\Goodsmart API.csproj.AssemblyReference.cache
+D:\Work\Tasks\Goodsmart API\Goodsmart API\obj\Debug\net7.0\Goodsmart API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Tasks\Goodsmart API\Goodsmart API\obj\Debug\net7.0\Goodsmart API.AssemblyInfoInputs.cache
+D:\Work\Tasks\Goodsmart API\Goodsmart API\obj\Debug\net7.0\Goodsmart API.AssemblyInfo.cs
+D:\Work\Tasks\Goodsmart API\Goodsmart API\obj\Debug\net7.0\Goodsmart API.csproj.CoreCompileInputs.cache
+D:\Work\Tasks\Goodsmart API\Goodsmart API\obj\Debug\net7.0\Goodsmart API.MvcApplicationPartsAssemblyInfo.cs
+D:\Work\Tasks\Goodsmart API\Goodsmart API\obj\Debug\net7.0\Goodsmart API.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\Tasks\Goodsmart API\Goodsmart API\obj\Debug\net7.0\staticwebassets\msbuild.Goodsmart API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Work\Tasks\Goodsmart API\Goodsmart API\obj\Debug\net7.0\staticwebassets\msbuild.build.Goodsmart API.props
+D:\Work\Tasks\Goodsmart API\Goodsmart API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Goodsmart API.props
+D:\Work\Tasks\Goodsmart API\Goodsmart API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Goodsmart API.props
+D:\Work\Tasks\Goodsmart API\Goodsmart API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Work\Tasks\Goodsmart API\Goodsmart API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Work\Tasks\Goodsmart API\Goodsmart API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Work\Tasks\Goodsmart API\Goodsmart API\obj\Debug\net7.0\scopedcss\bundle\Goodsmart API.styles.css
+D:\Work\Tasks\Goodsmart API\Goodsmart API\obj\Debug\net7.0\Goodsmart API.csproj.CopyComplete
+D:\Work\Tasks\Goodsmart API\Goodsmart API\obj\Debug\net7.0\Goodsmart API.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\obj\Debug\net7.0\refint\Goodsmart API.dll
+D:\Work\Tasks\Goodsmart API\Goodsmart API\obj\Debug\net7.0\Goodsmart API.pdb
+D:\Work\Tasks\Goodsmart API\Goodsmart API\obj\Debug\net7.0\Goodsmart API.genruntimeconfig.cache
+D:\Work\Tasks\Goodsmart API\Goodsmart API\obj\Debug\net7.0\ref\Goodsmart API.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\appsettings.Development.json
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\appsettings.json
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Goodsmart API.exe
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Goodsmart API.deps.json
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Goodsmart API.runtimeconfig.json
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Goodsmart API.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Goodsmart API.pdb
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Azure.Core.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Azure.Identity.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Humanizer.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\System.CodeDom.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Goodsmart Domain.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Goodsmart Repository.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Goodsmart Service.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Goodsmart Domain.pdb
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Goodsmart Repository.pdb
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\bin\Debug\net7.0\Goodsmart Service.pdb
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\obj\Debug\net7.0\Goodsmart API.csproj.AssemblyReference.cache
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\obj\Debug\net7.0\Goodsmart API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\obj\Debug\net7.0\Goodsmart API.AssemblyInfoInputs.cache
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\obj\Debug\net7.0\Goodsmart API.AssemblyInfo.cs
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\obj\Debug\net7.0\Goodsmart API.csproj.CoreCompileInputs.cache
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\obj\Debug\net7.0\Goodsmart API.MvcApplicationPartsAssemblyInfo.cs
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\obj\Debug\net7.0\Goodsmart API.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\obj\Debug\net7.0\staticwebassets\msbuild.Goodsmart API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\obj\Debug\net7.0\staticwebassets\msbuild.build.Goodsmart API.props
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Goodsmart API.props
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Goodsmart API.props
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\obj\Debug\net7.0\scopedcss\bundle\Goodsmart API.styles.css
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\obj\Debug\net7.0\Goodsmart API.csproj.CopyComplete
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\obj\Debug\net7.0\Goodsmart API.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\obj\Debug\net7.0\refint\Goodsmart API.dll
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\obj\Debug\net7.0\Goodsmart API.pdb
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\obj\Debug\net7.0\Goodsmart API.genruntimeconfig.cache
+D:\Work\Tasks\Goodsmart-Task\Goodsmart API\Goodsmart API\obj\Debug\net7.0\ref\Goodsmart API.dll
